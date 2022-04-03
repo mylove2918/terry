@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "axios": "^0.26.1",
-    "lowdb": "^3.0.0"
+    "lowdb": "^3.0.0",
+    "swiper": "^8.0.7"
   }
 }
