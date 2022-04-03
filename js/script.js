@@ -127,7 +127,7 @@ $( document ).ready(function() {
                 <div class="swiper-slide">                
                     <img src="//images.samsung.com/kdp/event/sec/PM_0304_the_freestyle_playlist/plt_category_01_${item[i].omni}.jpg" alt="">
                     <div class="blind">${item[i].blind}</div>
-                </div>  
+                </div>
             `            
 
             cateArr.push(cateSlide);   
