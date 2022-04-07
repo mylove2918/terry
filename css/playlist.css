@@ -1,5 +1,5 @@
 .inner_1440 {position: relative; margin: 0 auto; width: 1440px;}
 .swiper {margin: 0 auto;}
-.swiper-wrapper {display: flex; justify-content: space-between; }
+/* .swiper-wrapper {display: flex; justify-content: space-between; } */
 .swiper-slide {width: 204px;}
 .blind {display: none;} 

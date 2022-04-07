@@ -1,7 +1,7 @@
 $( document ).ready(function() {
     const swiperEvt = function() {
        const sw = new Swiper(".swiper", {
-            slidesPerView: 1,
+            slidesPerView: 'auto',
         });
     } 
     
@@ -39,6 +39,24 @@ $( document ).ready(function() {
                 omni: 25,
                 href: 'https://github.com/mylove2918/terry',                
                 blind: '작은거인'
+            },
+            {
+                week: 1,
+                omni: 26,
+                href: 'https://github.com/mylove2918/terry',                
+                blind: '텐트로 찾아온 보름달'
+            },
+            {
+                week: 1,
+                omni: 26,
+                href: 'https://github.com/mylove2918/terry',                
+                blind: '텐트로 찾아온 보름달'
+            },
+            {
+                week: 1,
+                omni: 26,
+                href: 'https://github.com/mylove2918/terry',                
+                blind: '텐트로 찾아온 보름달'
             },
             {
                 week: 1,
